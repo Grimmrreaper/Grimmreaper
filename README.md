@@ -1,5 +1,8 @@
 <h1 align="center">Hello 👋, I'm Grim_reaper</h1>
 
+<div align="center">
+  <img src="https://lanyard-profile-readme.vercel.app/api/626635643245690880" alt="https://discord.com/users/626635643245690880" />
+</div>
 
 
 ___
